@@ -1,0 +1,15 @@
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.AssemblyInfoInputs.cache
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.AssemblyInfo.cs
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.csproj.CoreCompileInputs.cache
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.sourcelink.json
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/bin/Debug/net9.0/Task-9
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/bin/Debug/net9.0/Task-9.deps.json
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/bin/Debug/net9.0/Task-9.runtimeconfig.json
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/bin/Debug/net9.0/Task-9.dll
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/bin/Debug/net9.0/Task-9.pdb
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.dll
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/refint/Task-9.dll
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.pdb
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/Task-9.genruntimeconfig.cache
+/Users/muthukaruppan/Desktop/Presidio-Tasks/C#/Task-9/obj/Debug/net9.0/ref/Task-9.dll
