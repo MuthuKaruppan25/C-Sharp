@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mB8KxmHq7feGfXYW5FgDcwnwpJUIqmlWYBMgjT8xB00=",
+  "Source": "BookMicroservice",
+  "BasePath": "_content/BookMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
